@@ -4,3 +4,17 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/* Headers */
+
+.header--main {
+    font-weight: normal;
+    font-size: 50px;
+    color: #fff;
+}
+
+/* Links */
+
+.link--cta {
+    color: aquamarine;
+    font-size: 16px;
+}
