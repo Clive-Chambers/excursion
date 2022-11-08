@@ -12,6 +12,18 @@ body {
     color: #fff;
 }
 
+.header--secondary {
+    font-weight: 300;
+    font-size: 42px;
+    color: #fff;
+}
+
+.header--sub-heading {
+    font-weight: normal;
+    font-size: 21px;
+    color: grey;
+}
+
 /* Links */
 
 .link--cta {
